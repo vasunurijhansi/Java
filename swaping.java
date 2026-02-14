@@ -6,9 +6,7 @@ public class swaping {
         int temp=a;
         a=b;
         b=temp;
-        System.out.pritnln("a="+a);
-        System.out.println("b="+b);
-
+        System.out.pritnln(a);
+        System.out.println(b);
     }
-
-    }
+}
